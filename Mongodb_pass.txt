@@ -1,0 +1,4 @@
+username-downtownknight009
+pass-WiBbeWdeDcjRzB7Q
+
+mongodb+srv://downtownknight009:WiBbeWdeDcjRzB7Q@cluster0.lqpmsqy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
